@@ -1,2 +1,2 @@
 libtk8.6
-mysql-connector-python==8.0
+mysql-connector-python
